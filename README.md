@@ -1,2 +1,2 @@
-# Day-3-Assignment--1
-This file contains the assignment-1 of Prince Pandey
+# Assignment Submission by LetsUpgrade
+This repository is made for submission of the assignments given by the LetsUpgrade Team
